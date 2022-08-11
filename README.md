@@ -4,7 +4,9 @@ A presentation for TEAM FIT by Demeter Márton
 
 In order to use my demo code, please clone the ultralytics yolov5 repo: https://github.com/ultralytics/yolov5
 
-Then add all the files in this repo to the main directory of yolov5 (including basketball_court.jpg).
+Then add all the files in this repo to the main directory of yolov5 including basketball_court.jpg and the test video under this url:
+
+https://drive.google.com/file/d/1GlujJwIzzCy8QECYuAznldbU5Tv2D40Z/view?usp=sharing
 
 Please also download the original yolo weigths, more specifically the yolov5x.pt file and add to the main directory.
 
