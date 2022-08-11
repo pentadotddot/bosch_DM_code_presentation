@@ -12,5 +12,7 @@ To execute the demo, run the replaced detect.py file the following way from term
 
 `python detect.py --source ./basket_test.mp4 --weights ./yolov5x.pt --view-img --save-txt`
 
+Check out the presentation slides here: https://drive.google.com/file/d/1Fj21gLpHQZLQABRWDE8Fq3hisCTFgoYe/view?usp=sharing
+
 If there is any question please write to: demeter.marton.cs@gmail.com
  
