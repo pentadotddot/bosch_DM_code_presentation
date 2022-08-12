@@ -17,6 +17,7 @@ To execute the demo, run the replaced detect.py file the following way from term
 Check out the presentation slides here: https://drive.google.com/file/d/1Fj21gLpHQZLQABRWDE8Fq3hisCTFgoYe/view?usp=sharing
 
 DEMO video: https://youtu.be/rUhcwkdqvl8
+[![Demo CountPages alpha](https://gifs.com/gif/k2PxKK)](https://youtu.be/rUhcwkdqvl8)
 
 If there is any question please write to: demeter.marton.cs@gmail.com
  
